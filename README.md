@@ -33,8 +33,18 @@
  
  ![image](https://user-images.githubusercontent.com/110852189/189753353-d42eeed1-bff9-4e5a-aad7-06c8d8c9c259.png)
  
- **4.2 -** Tela de seleção entre Arquivo/ Camera
+ **4.2 -** Tela de seleção entre Arquivo/ Camera.
  
  ![image](https://user-images.githubusercontent.com/110852189/189753618-917d8313-085b-40e5-9449-cdeefb8f1bea.png)
  
+ **4.3 -** Tela de Arquivo.
  
+ ![image](https://user-images.githubusercontent.com/110852189/189753869-757a7f89-60cb-44a6-ba4b-1b5d6e8dffb5.png)
+ 
+ **4.4 -** Tela de foto da câmera. 
+ 
+ ![image](https://user-images.githubusercontent.com/110852189/189753984-f8a0bea2-f7ad-4298-b693-5b84e0f94179.png)
+ 
+ **5 -** Tela de agradecimento.
+
+ ![image](https://user-images.githubusercontent.com/110852189/189754885-42d3c0da-0c14-4757-8af9-f1f1601ee113.png)
