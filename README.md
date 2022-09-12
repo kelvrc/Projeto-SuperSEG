@@ -5,6 +5,6 @@
  
  # Apresentação Figma Mobile <h4>
  
- # 1° Splash Screen, tela de boas vindas apresentada somente na primeira entrada no App. <h2>
+ **1°** Splash Screen, tela de boas vindas apresentada somente na primeira entrada no App.
  
  ![image](https://user-images.githubusercontent.com/110852189/189725242-8b1b124d-34f9-423d-ada2-8b3845547e1c.png)
