@@ -5,4 +5,4 @@
  
  # Apresentação Figma Mobile <h2>
  
- ![Bem-Vindo](img/Screenshot_1.png)
+ ![Screenshot_1](https://user-images.githubusercontent.com/110852189/189723738-9df8fb12-5c18-4340-b166-705812984b2a.png)
