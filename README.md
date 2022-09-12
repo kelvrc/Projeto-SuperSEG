@@ -7,34 +7,34 @@
  
  **1 -** Splash Screen, tela de boas vindas apresentada somente na primeira entrada no App.
  
- ![image](https://user-images.githubusercontent.com/110852189/189725242-8b1b124d-34f9-423d-ada2-8b3845547e1c.png)
+ ![image](https://user-images.githubusercontent.com/110852189/189751834-e72940ae-5df2-4034-8187-32e614914c21.png)
 
  **2 -** Tela de Login.
  
- ![image](https://user-images.githubusercontent.com/110852189/189725713-563902e9-4732-40ee-b673-7ad9561e8648.png)
+ ![image](https://user-images.githubusercontent.com/110852189/189752315-18ecf642-a2c9-4f38-ad51-1bf8bd499457.png)
  
  **2.1 -** Cadastro de nova conta.
  
- ![image](https://user-images.githubusercontent.com/110852189/189726289-3eb94f23-2235-4996-bcc8-6a6e1d67528b.png)
+ ![image](https://user-images.githubusercontent.com/110852189/189752541-76874bfe-8f88-4dcd-b659-e8aac7871a31.png)
  
  **2.2 -** Recuperação de senha.
  
- ![image](https://user-images.githubusercontent.com/110852189/189726495-dcdf22df-caa8-4284-8ff8-4be4c0b62434.png)
+ ![image](https://user-images.githubusercontent.com/110852189/189752599-cb1a1989-fe2e-4424-b374-2742a1c8ea6e.png)
  
  **3 -** Home Page - tela inicial do App.
  
- ![image](https://user-images.githubusercontent.com/110852189/189726916-6ddc67c7-57cc-498b-8893-c3f89021ed7d.png)
+ ![image](https://user-images.githubusercontent.com/110852189/189752738-bdc944e1-164e-4d53-974b-cd4552a467a4.png)
  
  **4 -** Tela de Ocorrencia.
  
- ![image](https://user-images.githubusercontent.com/110852189/189727272-eaa89695-c562-4d3d-b9a1-cd1c43453cb5.png)
+ ![image](https://user-images.githubusercontent.com/110852189/189752846-f0834166-9e9d-4d84-b042-785f61ad2ed0.png)
  
  **4.1 -** Scanner QR CODE para descrição do setor.
  
- ![image](https://user-images.githubusercontent.com/110852189/189727604-2f5c5713-60fb-4137-89a3-6b86754aa235.png)
+ ![image](https://user-images.githubusercontent.com/110852189/189753353-d42eeed1-bff9-4e5a-aad7-06c8d8c9c259.png)
  
  **4.2 -** Tela de seleção entre Arquivo/ Camera
  
- ![image](https://user-images.githubusercontent.com/110852189/189727950-d53c0a92-8977-412b-b9c9-007515e5becd.png)
+ ![image](https://user-images.githubusercontent.com/110852189/189753618-917d8313-085b-40e5-9449-cdeefb8f1bea.png)
  
  
