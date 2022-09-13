@@ -48,3 +48,29 @@
  **5 -** Tela de agradecimento.
 
  ![image](https://user-images.githubusercontent.com/110852189/189754885-42d3c0da-0c14-4757-8af9-f1f1601ee113.png)
+
+# Apresentação Figma Desktop <h4>
+
+**1 -** Tela de login.
+
+![image](https://user-images.githubusercontent.com/110852189/189960049-52f2ebda-5b7a-446f-b02d-437e6bd55db9.png)
+
+**1.1 -** Criar nova conta.
+
+![image](https://user-images.githubusercontent.com/110852189/189960313-4a5a2b7e-2715-4868-8d91-5f48d2d86ccc.png)
+
+**1.2 -** Recuperação de senha.
+
+![image](https://user-images.githubusercontent.com/110852189/189960471-302d8e59-85ce-4144-8590-6defa82a8b05.png)
+
+**2 -** Tela de Ocorrências.
+
+![image](https://user-images.githubusercontent.com/110852189/189960947-e488ce0d-cbe7-4057-a48f-67e79a3db24e.png)
+
+**2.1 -** Especificação de Ocorrência.
+
+![image](https://user-images.githubusercontent.com/110852189/189961231-132a5a32-12df-4121-b955-480608a22896.png)
+
+**3 -** Tela de relatórios.
+
+![image](https://user-images.githubusercontent.com/110852189/189962184-60ddc3a6-b38e-435f-913c-914bb879bcad.png)
